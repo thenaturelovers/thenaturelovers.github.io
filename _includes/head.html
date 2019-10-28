@@ -1,0 +1,23 @@
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE-edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/imgs/{% if page.teaser-img %}{{ page.teaser-img}}{% else %}page.background-img{% endif %}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:type"        content="article" />
+    <meta property="og:description" content="{% if page.meta %}{{page.meta}}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:url"         content="{{site.url}}{{site.baseurl}}{{page.url}}" />
+    <meta property="og:title"       content="{{ page.title }} - {{ site.title }}" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="/assets/css/yeti.bootstrap.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/> -->
+    
+    <!-- <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">    -->
+    <title> {% if page.title %} {{page.title | escape }} - {% endif %} {{ site.title | escape }}</title>
+
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>

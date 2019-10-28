@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+_site/*
+xfooter.html
+_includes/xfooter.html
+assets/imgs/oi/*
+_layouts/x*.html

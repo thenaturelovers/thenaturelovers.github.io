@@ -1,0 +1,36 @@
+.nav {
+  font-size: 30;
+}
+.nav li:hover {
+  background-color: #33a33d;
+}
+.rnp-scale {
+  display: block;
+  height: auto;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rnp-index-scale {
+  display: block;
+  height: auto;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a h2 {
+  color: #002b36;
+}
+a h5 {
+  color: #002b36;
+}
+.index-hr {
+  height: 3px;
+  color: rgba(150,150,150,0.7);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.rnp-fp-text {
+  color: #002b36;
+}
+

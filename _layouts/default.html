@@ -1,0 +1,39 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container">
+    {% include nav.html position='top' %}
+
+
+      <!-- <div class="blog-header" {% if page.background-img %} style="background-image: url({{site.baseurl}}/assets/imgs/{{ page.background-img }})" {% endif %} > -->
+        
+        {% if page.background-img %}
+        <img src="{{ site.base_url}}/assets/imgs/{{ page.background-img }}" class="img-responsive" alt="Responsive image">
+        {% endif %}
+      <div class="row" style="margin-top:10px">
+        <div class="col-sm-12 blog-main" role="main">
+        {{ content }}
+        </div>
+
+        <!-- Uncomment following to add a sidebar. Reduce column numbers by 1 above.
+        <div class="col-sm-1 col-sm-offset-1 blog-sidebar" role="complementary">
+        <div class="sidebar-module sidebar-module inset">
+          Sidebar contents go here.
+        </div>
+        </div>
+         -->
+    </div>
+
+    {% include footer.html %}
+    </div>
+
+    {% include append.html %}
+  </body>
+
+</html>

@@ -52,3 +52,13 @@ permalink: /about/
 - Bandar Punchh
 - Pindari Glaciers
 
+### Rock Climbing
+
+|   +---- | +-----                                                                                                                         |
+|    Year | Pinnacle/Wall                                                                                                                  |
+|---------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1984/85 | Mahuli Fort: Vajir, Navara, Navari, Navaryachi Karavali, Loose Boulder, Navarichi Karavali                                     |
+|    1985 | Shivneri Kadelot wall (first climb), Nagphani, Vanar Lingi, Telbaila walls, Dangya Sulaka                                      |
+|    1986 | Baan, Nanacha Angatha, Hadabichi Shendi, Mahalaxmi pinnacle, Karnala, Sitabaicha Palana                                        |
+|    1987 | Takmak Wall of Raigad, Sarasgad wall, Ratangad Khuta, Ganesh, Kartik, Macchindra wall, Vanar lingi, Bhavani Wall, Hirkani Wall |
+|         |                                                                                                                                |

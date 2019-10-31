@@ -117,7 +117,7 @@ __Bus service to Gunjavane (at the base) is available from Mumbai at additional 
     A/c No:        318002010010443
     A/c Type:      Savings
 
-**Put participant name in the remarks/description/narration field.**
+**Important:&nbsp; &nbsp; Put participant name in the remarks/description/narration field.**
 
 ### How to reach
 
@@ -151,12 +151,14 @@ experience.
 - Toilets are tented.
 
 ### Things to bring
+
 - Backpack (most other type is very uncomfortable to carry while hiking)
 - A carry mat (foam insulation sheet), sleeping bag, blanket, chadar etc
 - Sweater, warm jacket, head scarf, cap
 - handkerchief, towel, pancha
 - Good quality canvas/hiking shoes
 - Full pant, full shirt (comfortable track suits etc) for pradakshina
+- Odhani, scarf for pradakshina
 - Water bottle (1 ltr)
 - Torch with new batteries
 - Personal medicines
@@ -194,6 +196,29 @@ Kindly read all the rules and regulations carefully.
 
 ### Contact
 For any queries please contact us at: **thenaturelovers1986@gmail.com**
+
+Organisers:
+<div class="col-md-6 col-sm-12">
+<table class="table table-striped">
+  <tbody>
+    <tr>
+      <td>Pune</td>
+      <td>Rajgopal Patil</td>
+      <td>9823376551</td>
+    </tr>
+    <tr>
+      <td>Borivali</td>
+      <td>Abhishek Gurao</td>
+      <td>9773879880</td>
+    </tr>
+    <tr>
+      <td>Uran</td>
+      <td>Saee Naik</td>
+      <td>7738244469</td>
+    </tr>
+</tbody>
+</table>
+</div>
 
 Location-wise contacts numbers:
 

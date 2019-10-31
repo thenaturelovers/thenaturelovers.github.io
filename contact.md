@@ -19,8 +19,12 @@ permalink: /contact/
 </div>
 
 
-![email](/assets/imgs/svg/envelope-closed.svg "email")
+<!-- [comment]: #  ![email](/assets/imgs/svg/envelope-closed.svg "email") -->
 
 ##### Contact Address
+
+The Nature Lovers
+
+
 89/659, M.H.B. Colony, Western Express Highway, Dindoshi, Malad (East), Mumbai -
 400 097.

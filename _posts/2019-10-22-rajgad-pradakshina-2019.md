@@ -33,7 +33,8 @@ has thrilled and touched thousands of people. Most have fallen in love with this
 marvelous place, made friends and went back with tonnes of happy memories.
 
 ### Places to see on Rajgad
-<img style="max-width: 600px; height: auto" src="{{ site.baseurl }}/assets/imgs/900px_rajgad_torna_view.jpg" alt="Torna view">
+
+<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_torna_view.jpg" alt="Torna view">
 
 True to its name this king of forts has lot to offer to the visitors--
 
@@ -56,7 +57,7 @@ True to its name this king of forts has lot to offer to the visitors--
  
 ### Program
 
-<img style="max-width: 600px; height: auto" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
+<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
 
 1. 25th December
  - Reach Gunjavane in morning and hike to Rajgad
@@ -80,16 +81,41 @@ The program involves following physical activities:
 
 ### Program Charges
 
-We are happy to offer an early bird discount for payments made by **19th
-December 2019**, as that helps us accurately estimate the supplies to ferry up
-the mountain, and reduces our cost.
+The Nature Lovers is an non-profit organisation and we try to arrange our
+programs to spread the joy of our wonderful outdoors, create awareness about our
+rich heritage and betterment of everyone's health. But, arranging a program on a remote
+mountaintop has lot of associated costs and more importantly a huge amount of
+planning. Even though this program has resulted in loss for the organisation, we
+have persisted with this program as it has introduced thousands to the happiness
+that our mountains and nature.
 
-Early bird discount __till 19th December: Rs 3500__ (for school and college
-students __Rs 3200__ )
-    
-Regular __from 20th December: Rs 3800__ (for school and college students __Rs 3500__)
+
+We are happy to offer an early bird discount for payments made by **18th
+December 2019**, as that helps us to plan better, accurately estimate and plan
+the supplies to ferry up the mountain, and avoid loss.
+
+__Early bird discount till 18th December__
+
+General Public: __Rs 3500__
+
+School and college students __Rs 3200__ 
+
+**Doesn't include transportation.**
+
+----
+
+Regular __from 19th December__
+
+General Public: __Rs 3800__ 
+
+for school and college students: __Rs 3500__
+
+**Doesn't include transportation.**
+
+----
 
 Charges include:
+
 - Tea, breakfast, lunch, high tea, dinner on the fort
 - Stay in tents
 - Guided trek (pradakshina) around below the fort walls
@@ -101,6 +127,7 @@ Charges include:
 __Bus service to Gunjavane (at the base) is available from Mumbai at additional charge of Rs 1200.__
 
 ### Registration
+
 - **Registration is online - [Click Here for the registration form](https://forms.gle/pJQgkAJ1MyCuAGWz5)**
 - **Student Registration (those under 18 years)** -- [Click here for Student Registration Form](https://forms.gle/zavWTvmCcT4QMAq16)
 - Registration confirmed only upon payment.
@@ -108,7 +135,7 @@ __Bus service to Gunjavane (at the base) is available from Mumbai at additional 
   us your payment details including transaction reference (screenshot is fine)
   to our email address: thenaturelovers1986@gmail.com
 
-#### Our bank details
+<h4 id="bank_details"> Our bank details </h4>
 
     Bank Name:     Union Bank of India
     Branch:        Malad (West)
@@ -192,13 +219,13 @@ Kindly read all the rules and regulations carefully.
 - Organisers reserve the right to deny permission to any participant and ask
   them to leave the program, if they fail to follow the instructions or behave
   in irresponsible manner.
-- The program fee is non-refundable.
+- The program fee and bus charges are non-refundable.
 
 ### Contact
 For any queries please contact us at: **thenaturelovers1986@gmail.com**
 
+<div class="col-md-8 col-sm-12">
 Organisers:
-<div class="col-md-6 col-sm-12">
 <table class="table table-striped">
   <tbody>
     <tr>
@@ -220,30 +247,30 @@ Organisers:
 </table>
 </div>
 
-Location-wise contacts numbers:
 
 <div class="col-md-6 col-sm-12">
+Location-wise contacts numbers:
 <table class="table table-striped">
   <tbody>
     <tr>
       <td>Pune</td>
       <td>Rajgopal Patil</td>
-      <td>9823376551</td>
+      <td>98233 76551</td>
     </tr>
     <tr>
       <td>Mahim</td>
       <td>Kaksha Khandekar</td>
-      <td>&nbsp;</td>
+      <td>98695 30131</td>
     </tr>
     <tr>
       <td>Pune</td>
       <td>Amol Pendse</td>
-      <td>&nbsp;</td>
+      <td>90110 20492</td>
     </tr>
     <tr>
       <td>Borivali</td>
       <td>Jyoti Gurao</td>
-      <td>&nbsp;</td>
+      <td>‭98214 54057</td>
     </tr>
     <tr>
       <td>Kolhapur</td>
@@ -252,33 +279,33 @@ Location-wise contacts numbers:
     </tr>
     <tr>
       <td>Girgaon</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Milind Paranjpe</td>
+      <td>98923 37055</td>
     </tr>
     <tr>
       <td>Malad</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Deepa Walvekar</td>
+      <td>93215 13070‬</td>
     </tr>
     <tr>
       <td>Airoli</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Rachana Kulkarni</td>
+      <td>98213 42702</td>
     </tr>
     <tr>
       <td>Panvel</td>
-      <td>&nbsp;</td>
+      <td>Nayana N N</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>Nerul</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Datta Karade</td>
+      <td>98679 12847‬</td>
     </tr>
     <tr>
       <td>Bhandup</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Santosh Ghadigaonkar</td>
+      <td>98694 49488‬</td>
     </tr>
   </tbody>
 </table>

@@ -5,7 +5,7 @@ date:   2019-10-22 09:12:06 +0530
 meta: Join us in our popular annual adventure on Rajgad fort in Pune district. This is our 34th year of this program. This beautiful fort was home to Chhatrapati Shivaji for 25 years and was witness to many historic events. The fort atop the hill has strong, heavy walls that are an architectural marvel. Best way to appreciate this extraordinary medieval stronghold is by trekking below these massive, awe-inspiring fort walls. This program presents a great opportunity to do just that.
 keysubtext: 
 background-img: 900px_rajgad_kaleshwari.jpg
-teaser-img: 720px_rajgad_pradakshina_route.jpg
+teaser-img: 700px_suvela_with_backwaters.jpg
 teaser-orientation: landscape
 categories: course
 ---
@@ -236,7 +236,7 @@ Organisers:
     <tr>
       <td>Borivali</td>
       <td>Abhishek Gurao</td>
-      <td>9773879880</td>
+      <td>8286272088</td>
     </tr>
     <tr>
       <td>Uran</td>

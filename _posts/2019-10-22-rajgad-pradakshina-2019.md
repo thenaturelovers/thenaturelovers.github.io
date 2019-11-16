@@ -28,7 +28,7 @@ massive, awe-inspiring fort walls. This program presents a great opportunity to
 do just that.
 
 The Rajgad pradakshina offers unique and impressive views of the imposing
-fortifications and bastions. Started in 1985, now in its 34th year this program
+fortifications and bastions. Started in 1986, now in its 34th year this program
 has thrilled and touched thousands of people. Most have fallen in love with this
 marvelous place, made friends and went back with tonnes of happy memories.
 
@@ -89,6 +89,8 @@ planning. Even though this program has resulted in loss for the organisation, we
 have persisted with this program as it has introduced thousands to the happiness
 that our mountains and nature.
 
+Donors and contributing members of The Nature Lovers allow us to offer the
+program at a low value to participants. Heartfelt thanks to all of them!
 
 We are happy to offer an early bird discount for payments made by **18th
 December 2019**, as that helps us to plan better, accurately estimate and plan
@@ -128,6 +130,7 @@ __Bus service to Gunjavane (at the base) is available from Mumbai at additional 
 
 ### Registration
 
++ Once you have made the payment please fill the registration form online.
 - **Registration is online - [Click Here for the registration form](https://forms.gle/pJQgkAJ1MyCuAGWz5)**
 - **Student Registration (those under 18 years)** -- [Click here for Student Registration Form](https://forms.gle/zavWTvmCcT4QMAq16)
 - Registration confirmed only upon payment.

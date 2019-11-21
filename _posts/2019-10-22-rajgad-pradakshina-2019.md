@@ -10,12 +10,18 @@ teaser-orientation: landscape
 categories: course
 ---
 
-### An unique experience
+<h3 style="text-align: center">
+ An unique experience
+</h3>
 
+<div class="row"  style="margin-bottom: 20px">
+<div class="col-md-8 col-md-offset-2" style="background: #bfd3f0; padding: 20px">
 Four days in the presence of history, and natural world, away from cities, roads
 and crowds. This amazing experience beckons you. Absorb the atmosphere atop the
 wind swept mountain, and take in the magnificent panorama of medieval forts that
 is sure to transport you in the bygone times.
+</div>
+</div>
 
 Rajgad is located in the Velhe taluka, Pune district in Maharashtra. 
 
@@ -81,7 +87,38 @@ The program involves following physical activities:
 
 ### Program Charges
 
-The Nature Lovers is an non-profit organisation and we try to arrange our
+<div class="row">
+<div class="col-md-8" style="border: 1px solid #bfd3f0; margin-bottom: 5px">
+
+We are happy to offer an early bird discount for payments made by <strong>18th December 2019</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
+
+<br style="margin: 10px" />
+
+<em>Early bird discount till 18th December</em>
+<br style="margin: 6px" />
+
+<ul>
+<li>General Public: <strong>Rs 3500</strong></li>
+<li> School and college students <strong>Rs 3200</strong></li>
+<li><em>Doesn't include transportation.</em></li>
+</ul>
+
+<hr />
+
+Regular <em>from 19th December</em>
+<ul>
+<li>General Public: <strong>Rs 3800</strong></li>
+<li> School and college students <strong>Rs 3500</strong></li>
+<li><em>Doesn't include transportation.</em></li>
+</ul>
+
+<hr />
+
+<strong>Bus service to Gunjavane (at the base) is available from Mumbai at additional charge of Rs 1200.</strong>
+</div>
+
+<div class="col-md-4" style="background: #bfd3f0; padding: 25px">
+The Nature Lovers is a non-profit organisation and we try to arrange our
 programs to spread the joy of our wonderful outdoors, create awareness about our
 rich heritage and betterment of everyone's health. But, arranging a program on a remote
 mountaintop has lot of associated costs and more importantly a huge amount of
@@ -92,29 +129,8 @@ that our mountains and nature.
 Donors and contributing members of The Nature Lovers allow us to offer the
 program at a low value to participants. Heartfelt thanks to all of them!
 
-We are happy to offer an early bird discount for payments made by **18th
-December 2019**, as that helps us to plan better, accurately estimate and plan
-the supplies to ferry up the mountain, and avoid loss.
-
-__Early bird discount till 18th December__
-
-General Public: __Rs 3500__
-
-School and college students __Rs 3200__ 
-
-**Doesn't include transportation.**
-
-----
-
-Regular __from 19th December__
-
-General Public: __Rs 3800__ 
-
-for school and college students: __Rs 3500__
-
-**Doesn't include transportation.**
-
-----
+</div>
+</div>
 
 Charges include:
 
@@ -126,17 +142,6 @@ Charges include:
 - Tea and breakfast at Gunjavane on arrival
 - Lunch at Gunjavane on last day
 
-__Bus service to Gunjavane (at the base) is available from Mumbai at additional charge of Rs 1200.__
-
-### Registration
-
-+ Once you have made the payment please fill the registration form online.
-- **Registration is online - [Click Here for the registration form](https://forms.gle/pJQgkAJ1MyCuAGWz5)**
-- **Student Registration (those under 18 years)** -- [Click here for Student Registration Form](https://forms.gle/zavWTvmCcT4QMAq16)
-- Registration confirmed only upon payment.
-- You can pay by online bank transfer (see below for bank details). Please send
-  us your payment details including transaction reference (screenshot is fine)
-  to our email address: thenaturelovers1986@gmail.com
 
 <h4 id="bank_details"> Our bank details </h4>
 
@@ -148,6 +153,17 @@ __Bus service to Gunjavane (at the base) is available from Mumbai at additional 
     A/c Type:      Savings
 
 **Important:&nbsp; &nbsp; Put participant name in the remarks/description/narration field.**
+
+
+### Registration
+
++ Once you have made the payment please fill the registration form online.
+- **Registration is online - [Click Here for the registration form](https://forms.gle/pJQgkAJ1MyCuAGWz5)**
+- **Student Registration (those under 18 years)** -- [Click here for Student Registration Form](https://forms.gle/zavWTvmCcT4QMAq16)
+- Registration confirmed only upon payment.
+- You can pay by online bank transfer (see below for bank details). Please send
+  us your payment details including transaction reference (screenshot is fine)
+  to our email address: thenaturelovers1986@gmail.com
 
 ### How to reach
 
@@ -226,10 +242,10 @@ Kindly read all the rules and regulations carefully.
 
 ### Contact
 For any queries please contact us at: **thenaturelovers1986@gmail.com**
-
-<div class="col-md-8 col-sm-12">
+<div class="row">
+<div class="col-md-6 col-sm-12">
 Organisers:
-<table class="table table-striped">
+<table class="table table-striped" style="font-size: 0.9em">
   <tbody>
     <tr>
       <td>Pune</td>
@@ -250,16 +266,11 @@ Organisers:
 </table>
 </div>
 
-
 <div class="col-md-6 col-sm-12">
+
 Location-wise contacts numbers:
-<table class="table table-striped">
+<table class="table table-striped" style="font-size: 0.9em">
   <tbody>
-    <tr>
-      <td>Pune</td>
-      <td>Rajgopal Patil</td>
-      <td>98233 76551</td>
-    </tr>
     <tr>
       <td>Mahim</td>
       <td>Kaksha Khandekar</td>
@@ -312,4 +323,5 @@ Location-wise contacts numbers:
     </tr>
   </tbody>
 </table>
+</div>
 </div>

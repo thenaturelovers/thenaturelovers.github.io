@@ -123,8 +123,8 @@ programs to spread the joy of our wonderful outdoors, create awareness about our
 rich heritage and betterment of everyone's health. But, arranging a program on a remote
 mountaintop has lot of associated costs and more importantly a huge amount of
 planning. Even though this program has resulted in loss for the organisation, we
-have persisted with this program as it has introduced thousands to the happiness
-that our mountains and nature.
+have persisted with it as it has introduced thousands to the happiness
+that our mountains and nature provide.
 
 Donors and contributing members of The Nature Lovers allow us to offer the
 program at a low value to participants. Heartfelt thanks to all of them!

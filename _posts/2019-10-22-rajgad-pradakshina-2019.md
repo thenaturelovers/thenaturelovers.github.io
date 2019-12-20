@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The 34th Rajgad Pradakshina (2019) <small>Registration started</small>
+title:  The 34th Rajgad Pradakshina (2019) <small>All spaces full! Registration stopped!</small>
 date:   2019-10-22 09:12:06 +0530
 meta: Join us in our popular annual adventure on Rajgad fort in Pune district. This is our 34th year of this program. This beautiful fort was home to Chhatrapati Shivaji for 25 years and was witness to many historic events. The fort atop the hill has strong, heavy walls that are an architectural marvel. Best way to appreciate this extraordinary medieval stronghold is by trekking below these massive, awe-inspiring fort walls. This program presents a great opportunity to do just that.
 keysubtext: 
@@ -9,6 +9,11 @@ teaser-img: 700px_suvela_with_backwaters.jpg
 teaser-orientation: landscape
 categories: course
 ---
+
+<h3 style="color: #9e1200">
+All booked! We have stopped registrations! Thank you for your response!
+</h3>
+
 
 <h3 style="text-align: center">
  An unique experience
@@ -145,6 +150,10 @@ Charges include:
 
 <h4 id="bank_details"> Our bank details </h4>
 
+<h4 style="color: #9e1200">
+All booked! We have stopped registrations! Thank you for your response!
+</h4>
+
     Bank Name:     Union Bank of India
     Branch:        Malad (West)
     IFSC Code:     UBIN0531804
@@ -156,6 +165,10 @@ Charges include:
 
 
 ### Registration
+
+<h4 style="color: #9e1200">
+All booked! We have stopped registrations! Thank you for your response!
+</h4>
 
 + Once you have made the payment please fill the registration form online.
 - **Registration is online - [Click Here for the registration form](https://forms.gle/pJQgkAJ1MyCuAGWz5)**

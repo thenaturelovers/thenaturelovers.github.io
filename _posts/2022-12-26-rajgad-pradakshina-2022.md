@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The 35th Rajgad Pradakshina (2023)
+title:  The 2023 Rajgad Pradakshina (37th year)
 date:   2022-12-26 09:12:06 +0530
 meta: Join us in our popular annual adventure on Rajgad fort in Pune district. This is our 35th year of this program. This beautiful fort was home to Chhatrapati Shivaji for 25 years and was witness to many historic events. The fort atop the hill has strong, heavy walls that are an architectural marvel. Best way to appreciate this extraordinary medieval stronghold is by trekking below these massive, awe-inspiring fort walls. This program presents a great opportunity to do just that.
 keysubtext: 
@@ -16,10 +16,10 @@ categories: course
 
 <div class="row"  style="margin-bottom: 20px">
 <div class="col-md-8 col-md-offset-2" style="background: #bfd3f0; padding: 20px">
-Four days in the presence of history, and natural world, away from cities, roads
-and crowds. This amazing experience beckons you. Absorb the atmosphere atop the
-wind swept mountain, and take in the magnificent panorama of medieval forts that
-is sure to transport you in the bygone times.
+Three days in the presence of history, and natural world, away from cities,
+roads and crowds. This amazing experience beckons you. Absorb the atmosphere
+atop the wind swept mountain, and take in the magnificent panorama of medieval
+forts that is sure to transport you in the bygone times.
 </div>
 </div>
 
@@ -87,11 +87,11 @@ The program involves following physical activities:
 <div class="row">
 <div class="col-md-8" style="border: 1px solid #bfd3f0; margin-bottom: 5px">
 
-We are happy to offer an early bird discount for payments made by <strong>22 January 2023</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
+We are happy to offer an early bird discount for payments made by <strong>10 January 2023</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
 
 <br style="margin: 10px" />
 
-<em>Early bird discount till 22nd January</em>
+<em>Early bird discount till 10th January</em>
 <br style="margin: 6px" />
 
 <ul>
@@ -155,7 +155,7 @@ Charges include:
 ### Registration
 
 + Once you have made the payment please fill the registration form online.
-- **Registration is online - [Click Here for the registration form](https://forms.gle/of4Dywc1AgmZncSFA)**
+- **Registration is online - [Click Here for the registration form](https://forms.gle/P79WpwkptkZ8VtCh6)**
 <!-- - **Student Registration (those under 18 years)** -- [Click here for Student Registration Form](https://forms.gle/zavWTvmCcT4QMAq16) -->
 - Registration confirmed only upon payment.
 - You can pay by online bank transfer (see below for bank details). Please send

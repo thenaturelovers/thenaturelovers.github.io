@@ -87,11 +87,11 @@ The program involves following physical activities:
 <div class="row">
 <div class="col-md-8" style="border: 1px solid #bfd3f0; margin-bottom: 5px">
 
-We are happy to offer an early bird discount for payments made by <strong>10 January 2023</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
+We are happy to offer an early bird discount for payments made by <strong>15 January 2023</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
 
 <br style="margin: 10px" />
 
-<em>Early bird discount till 10th January</em>
+<em>Early bird discount till 15th January</em>
 <br style="margin: 6px" />
 
 <ul>

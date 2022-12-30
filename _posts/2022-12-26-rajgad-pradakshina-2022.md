@@ -102,7 +102,7 @@ We are happy to offer an early bird discount for payments made by <strong>15 Jan
 
 <hr />
 
-Regular <em>from 23rd January</em>
+Regular <em>from 16th January</em>
 <ul>
 <li>General Public: <strong>Rs 4000</strong></li>
 <li> School and college students <strong>Rs 3500</strong></li>

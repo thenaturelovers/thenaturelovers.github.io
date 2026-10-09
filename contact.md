@@ -1,30 +1,20 @@
 ---
 layout: page
-title: Contact Us
-menuname: Contact
+ref: contact
+title: Contact us
 permalink: /contact/
+kicker: Write to us
+lede: The quickest way to reach us is by email. We reply as volunteers, so please allow a few days.
 ---
 
-[comment]: # A comment
+<ul class="contact-list">
+  <li><span class="field-note">Email</span><a href="mailto:thenaturelovers1986@gmail.com">thenaturelovers1986@gmail.com</a></li>
+  <li><span class="field-note">Facebook</span><a href="https://www.facebook.com/groups/127835447230299/">The Nature Lovers group</a></li>
+</ul>
 
-<div class="col-md-12" style="margin: 30px">
-<img src="/assets/imgs/svg/envelope-closed.svg" style="width: 20px; margin-right:10px">
- thenaturelovers1986@gmail.com
-<br style="margin: 10px;" />
-<img src="/assets/imgs/facebook.svg" style="width: 20px; margin-right:10px">
-<a href="https://www.facebook.com/groups/127835447230299/">Facebook</a>
-<br style="margin: 10px;" />
-<img src="/assets/imgs/instagram.svg" style="width: 20px; margin-right:10px">
-<a href="https://instagram.com">Instagram</a>
-</div>
-
-
-<!-- [comment]: #  ![email](/assets/imgs/svg/envelope-closed.svg "email") -->
-
-##### Contact Address
-
+### Address
 The Nature Lovers
-
-
-89/659, M.H.B. Colony, Western Express Highway, Dindoshi, Malad (East), Mumbai -
-400 097.
+C/o S. K. Chemicals,
+Office No 204 - D, Sumit Samartha Arcade,
+Aarey Road, Goregaon (West),
+Mumbai 400 104

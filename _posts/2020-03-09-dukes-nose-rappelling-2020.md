@@ -1,5 +1,7 @@
 ---
 layout: post
+ref: dukes-nose-2020
+lang: en
 title:  Thrilling Duke's Nose rappelling enjoyed by many
 date:   2020-03-09 09:12:06 +0530
 meta: Many members of The Nature Lovers had an exciting day at the iconic Duke's Nose near Lonavala. More than 45 people rappelled down the 300ft on this rock.
@@ -32,8 +34,8 @@ near Lonavala. More than 45 people rappelled down the 300ft on this rock.
 
 ### Some pictures
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_1.JPG" alt="Duke's Nose">
+<img src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_1.jpg" alt="Duke's Nose">
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_4.JPG" alt="Duke's Nose">
+<img src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_4.jpg" alt="Duke's Nose">
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_5.JPG" alt="Duke's Nose">
+<img src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_5.jpg" alt="Duke's Nose">

@@ -1,15 +1,28 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+{%- assign lang = page.lang | default: site.default_lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign events_page = nil -%}
+{%- for p in site.pages -%}{%- if p.ref == 'events' and p.lang == lang -%}{%- assign events_page = p -%}{%- endif -%}{%- endfor -%}
+<article class="wrap post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="page-head">
+    <p class="field-note">
+      {%- if events_page %}<a href="{{ events_page.url }}">{{ t.events }}</a> · {% endif -%}
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+      {%- if page.author %} · <span itemprop="author">{{ page.author }}</span>{% endif -%}
+    </p>
+    <h1 class="display" itemprop="name headline">{{ page.title }}</h1>
+    {%- if page.meta %}<p class="lede">{{ page.meta | strip_html | truncatewords: 34 }}</p>{% endif %}
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  {%- if page.background-img %}
+  <figure class="figure">
+    <img src="{{ site.baseurl }}/assets/imgs/{{ page.background-img }}" alt="">
+  </figure>
+  {%- endif %}
+
+  <div class="prose" itemprop="articleBody">
     {{ content }}
   </div>
-
 </article>

@@ -1,0 +1,106 @@
+# UI strings. Add every key to BOTH languages.
+# Marathi strings should be reviewed by a native speaker.
+en:
+  site_name: The Nature Lovers
+  site_place: Mumbai
+  tagline: Adventure is our base and Conservation is our aim.
+  skip: Skip to content
+  menu: Menu
+  home: Home
+  events: Events
+  activities: Activities
+  about: About
+  publications: Publications
+  people: People
+  contact: Contact
+  get_involved: Get involved
+  other_language_name: मराठी
+  other_language_label: Read this site in Marathi
+  since: Mumbai · since 1976
+  hero_title: Out on the mountains, for fifty years.
+  hero_lede: A Mumbai non-profit of trekkers, rock climbers and nature lovers, camping with children, planting trees and walking forts since 1976.
+  hero_caption: Torna fort, Pune district · September 2024
+  see_events: See our events
+  anniversary_kicker: 1976 – 2026
+  anniversary_title: Fifty years of The Nature Lovers
+  anniversary_body: We are celebrating our 50th anniversary in December 2026 with an exhibition in Mumbai, open to the general public and to students. Dates and venue will be announced here soon.
+  anniversary_cta: Write to us for updates
+  what_we_do: What we do
+  what_we_do_lede: Four strands that have run through everything since the first trek.
+  from_the_field: From the field
+  all_events: All events
+  upcoming: Upcoming
+  past: Past events and reports
+  no_upcoming: No events are open for registration right now. Our 50th anniversary programme will be announced here soon.
+  read_more: Read more
+  address: Address
+  email: Email
+  follow: Follow us
+  facebook: Facebook page
+  instagram: Instagram
+  copyright: The Nature Lovers, Mumbai
+  fallback_note: This page is not yet available in Marathi, so it is shown in English.
+  adv_title: Adventure
+  adv_body: Himalayan treks, fort treks and the annual Rajgad Pradakshina.
+  adv_note: Treks since 1976
+  nat_title: Nature and wildlife
+  nat_body: Camps that introduce school children to the natural world.
+  nat_note: Children's camps since 1986
+  rock_title: Rock climbing
+  rock_body: Sahyadri pinnacles, walls and rappelling days.
+  rock_note: 150+ pinnacles climbed
+  cons_title: Conservation
+  cons_body: Tree plantations, tank cleaning and help for mountain schools.
+  cons_note: Tandulwadi tank cleaning, 10 years on
+mr:
+  site_name: दि नेचर लव्हर्स
+  site_place: मुंबई
+  tagline: साहस हा आमचा पाया, संवर्धन हे आमचे ध्येय.
+  skip: मजकुराकडे जा
+  menu: मेनू
+  home: मुख्यपृष्ठ
+  events: कार्यक्रम
+  activities: उपक्रम
+  about: आमच्याबद्दल
+  publications: प्रकाशने
+  people: आमची माणसे
+  contact: संपर्क
+  get_involved: सहभागी व्हा
+  other_language_name: English
+  other_language_label: हे संकेतस्थळ इंग्रजीतून वाचा
+  since: मुंबई · १९७६ पासून
+  hero_title: डोंगरदऱ्यांतील पन्नास वर्षे.
+  hero_lede: मुंबईतील गिर्यारोहक, दुर्गप्रेमी आणि निसर्गप्रेमींची ही संस्था १९७६ पासून गडाकिल्ल्यांची भ्रमंती, प्रस्तरारोहण, निसर्ग शिबिरे, आणि निसर्ग संवर्धनाचे कार्यक्रम करत आहे.
+  hero_caption: तोरणा किल्ला, पुणे जिल्हा · सप्टेंबर २०२४
+  see_events: आमचे कार्यक्रम पहा
+  anniversary_kicker: १९७६ – २०२६
+  anniversary_title: दि नेचर लव्हर्सची पन्नास सोनेरी वर्षे
+  anniversary_body: डिसेंबर २०२६ मध्ये आम्ही आमचा ५० वा वर्धापन दिन मुंबईत एका प्रदर्शनाद्वारे साजरा करत आहोत. प्रदर्शन सर्वसामान्य नागरिक आणि विद्यार्थ्यांसाठी खुले असेल. तारखा आणि ठिकाण लवकरच येथे जाहीर केले जाईल.
+  anniversary_cta: माहितीकरीता आम्हाला लिहा
+  what_we_do: आमचे उपक्रम
+  what_we_do_lede: पहिल्या भ्रमंतीपासून आजपर्यंत चालत आलेले चार धागे.
+  from_the_field: मोहिमांमधून
+  all_events: सर्व कार्यक्रम
+  upcoming: आगामी
+  past: झालेले कार्यक्रम आणि वृत्तांत
+  no_upcoming: सध्या कोणत्याही कार्यक्रमाची नोंदणी सुरू नाही. आमच्या ५० व्या वर्धापन दिनाचा कार्यक्रम लवकरच येथे जाहीर होईल.
+  read_more: अधिक वाचा
+  address: पत्ता
+  email: ईमेल
+  follow: आमच्याशी जोडलेले रहा
+  facebook: फेसबुक
+  instagram: इन्स्टाग्रॅम
+  copyright: दि नेचर लव्हर्स, मुंबई
+  fallback_note: हे पान अद्याप मराठीत उपलब्ध नाही, म्हणून इंग्रजीत दाखवले आहे.
+  adv_title: साहस
+  adv_body: हिमालयीन मोहिमा, किल्ल्यांची भ्रमंती आणि वार्षिक राजगड प्रदक्षिणा.
+  adv_note: १९७६ पासून भ्रमंती
+  nat_title: निसर्ग आणि वन्यजीव
+  nat_body: शाळकरी मुलांना निसर्गाची ओळख करून देणारी शिबिरे.
+  nat_note: १९८६ पासून बालशिबिरे
+  rock_title: प्रस्तरारोहण
+  rock_body: सह्याद्रीतील सुळके, कडे आणि रॅपलिंगचे दिवस.
+  rock_note: १५० हून अधिक सुळके सर
+  cons_title: संवर्धन
+  cons_body: वृक्षारोपण, टाके स्वच्छता आणि डोंगराळ भागातील शाळांना मदत.
+  cons_note: तांदुळवाडी टाके स्वच्छता, १० वर्षे

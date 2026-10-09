@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{%- assign lang = page.lang | default: site.default_lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign all = site.posts | where: "lang", lang -%}
+{%- assign upcoming = all | where: "upcoming", true -%}
+<div class="wrap">
+  <header class="page-head">
+    <h1 class="display">{{ t.events }}</h1>
+    {%- if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+  </header>
+
+  <section class="section" style="padding-top:0">
+    <h2>{{ t.upcoming }}</h2>
+    {%- if upcoming.size > 0 %}
+    <div class="cards">
+      {%- for post in upcoming -%}{% include post-card.html post=post %}{%- endfor -%}
+    </div>
+    {%- else %}
+    <p class="note">{{ t.no_upcoming }}</p>
+    {%- endif %}
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <h2>{{ t.past }}</h2>
+    <ul class="event-list">
+      {%- for post in all -%}
+      {%- unless post.upcoming -%}
+      <li>
+        <p class="field-note"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time></p>
+        <div>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          {%- if post.meta %}<p>{{ post.meta | strip_html | truncate: 200 }}</p>{% endif %}
+        </div>
+      </li>
+      {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+  </section>
+</div>

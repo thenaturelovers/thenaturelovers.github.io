@@ -1,5 +1,7 @@
 ---
 layout: post
+ref: rp-2019
+lang: en
 title:  The 34th Rajgad Pradakshina (2019) <small>All spaces full! Registration stopped!</small>
 date:   2019-10-22 09:12:06 +0530
 meta: Join us in our popular annual adventure on Rajgad fort in Pune district. This is our 34th year of this program. This beautiful fort was home to Chhatrapati Shivaji for 25 years and was witness to many historic events. The fort atop the hill has strong, heavy walls that are an architectural marvel. Best way to appreciate this extraordinary medieval stronghold is by trekking below these massive, awe-inspiring fort walls. This program presents a great opportunity to do just that.
@@ -10,17 +12,17 @@ teaser-orientation: landscape
 categories: course
 ---
 
-<h3 style="color: #9e1200">
+<h3 class="alert-title">
 All booked! We have stopped registrations! Thank you for your response!
 </h3>
 
 
-<h3 style="text-align: center">
+<h3>
  An unique experience
 </h3>
 
-<div class="row"  style="margin-bottom: 20px">
-<div class="col-md-8 col-md-offset-2" style="background: #bfd3f0; padding: 20px">
+<div class="row">
+<div class="callout">
 Four days in the presence of history, and natural world, away from cities, roads
 and crowds. This amazing experience beckons you. Absorb the atmosphere atop the
 wind swept mountain, and take in the magnificent panorama of medieval forts that
@@ -45,7 +47,7 @@ marvelous place, made friends and went back with tonnes of happy memories.
 
 ### Places to see on Rajgad
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_torna_view.jpg" alt="Torna view">
+<img src="{{ site.baseurl }}/assets/imgs/900px_rajgad_torna_view.jpg" alt="Torna view">
 
 True to its name this king of forts has lot to offer to the visitors--
 
@@ -68,7 +70,7 @@ True to its name this king of forts has lot to offer to the visitors--
  
 ### Program
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
+<img src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
 
 1. 25th December
  - Reach Gunjavane in morning and hike to Rajgad
@@ -93,14 +95,14 @@ The program involves following physical activities:
 ### Program Charges
 
 <div class="row">
-<div class="col-md-8" style="border: 1px solid #bfd3f0; margin-bottom: 5px">
+<div class="callout callout-plain">
 
 We are happy to offer an early bird discount for payments made by <strong>18th December 2019</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
 
-<br style="margin: 10px" />
+<br>
 
 <em>Early bird discount till 18th December</em>
-<br style="margin: 6px" />
+<br>
 
 <ul>
 <li>General Public: <strong>Rs 3500</strong></li>
@@ -122,7 +124,7 @@ Regular <em>from 19th December</em>
 <strong>Bus service to Gunjavane (at the base) is available from Mumbai at additional charge of Rs 1200.</strong>
 </div>
 
-<div class="col-md-4" style="background: #bfd3f0; padding: 25px">
+<div class="callout">
 The Nature Lovers is a non-profit organisation and we try to arrange our
 programs to spread the joy of our wonderful outdoors, create awareness about our
 rich heritage and betterment of everyone's health. But, arranging a program on a remote
@@ -150,7 +152,7 @@ Charges include:
 
 <h4 id="bank_details"> Our bank details </h4>
 
-<h4 style="color: #9e1200">
+<h4 class="alert-title">
 All booked! We have stopped registrations! Thank you for your response!
 </h4>
 
@@ -166,7 +168,7 @@ All booked! We have stopped registrations! Thank you for your response!
 
 ### Registration
 
-<h4 style="color: #9e1200">
+<h4 class="alert-title">
 All booked! We have stopped registrations! Thank you for your response!
 </h4>
 
@@ -256,9 +258,9 @@ Kindly read all the rules and regulations carefully.
 ### Contact
 For any queries please contact us at: **thenaturelovers1986@gmail.com**
 <div class="row">
-<div class="col-md-6 col-sm-12">
+<div class="col">
 Organisers:
-<table class="table table-striped" style="font-size: 0.9em">
+<table>
   <tbody>
     <tr>
       <td>Pune</td>
@@ -279,10 +281,10 @@ Organisers:
 </table>
 </div>
 
-<div class="col-md-6 col-sm-12">
+<div class="col">
 
 Location-wise contacts numbers:
-<table class="table table-striped" style="font-size: 0.9em">
+<table>
   <tbody>
     <tr>
       <td>Mahim</td>

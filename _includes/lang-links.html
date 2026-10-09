@@ -1,0 +1,20 @@
+{%- comment -%}
+  Sets: lang_other (the other language code), lang_alt_url (URL of this page in
+  the other language, or empty), lang_switch_url (where the language toggle
+  should go: the counterpart page, else the other language's home).
+  Counterparts are matched with the shared `ref:` front matter key.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: site.default_lang -%}
+{%- if lang == 'mr' -%}{%- assign lang_other = 'en' -%}{%- else -%}{%- assign lang_other = 'mr' -%}{%- endif -%}
+{%- assign lang_alt_url = '' -%}
+{%- if page.ref -%}
+  {%- for p in site.pages -%}{%- if p.ref == page.ref and p.lang == lang_other -%}{%- assign lang_alt_url = p.url -%}{%- endif -%}{%- endfor -%}
+  {%- for p in site.posts -%}{%- if p.ref == page.ref and p.lang == lang_other -%}{%- assign lang_alt_url = p.url -%}{%- endif -%}{%- endfor -%}
+{%- endif -%}
+{%- if lang_alt_url != '' -%}
+  {%- assign lang_switch_url = lang_alt_url -%}
+{%- elsif lang_other == 'mr' -%}
+  {%- assign lang_switch_url = '/mr/' -%}
+{%- else -%}
+  {%- assign lang_switch_url = '/' -%}
+{%- endif -%}

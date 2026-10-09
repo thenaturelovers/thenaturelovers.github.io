@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
+ref: about
+title: About us
 permalink: /about/
+kicker: Since 1976
+lede: Started as Mountain Lovers with 26 members, renamed The Nature Lovers in 1982 with a wider thought of adventure and nature conservation.
 ---
-
-<div class="col-md-12 col-sm-12" style="text-align:center">
-<img class="" style="max-width: 600px; height: auto; margin-top: 10px" src="{{site.baseurl }}/assets/imgs/168px_nl_logo.jpg" alt="NL Logo">
-</div>
 
 
 ### Background

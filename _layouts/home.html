@@ -1,0 +1,85 @@
+---
+layout: default
+---
+{%- assign lang = page.lang | default: site.default_lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign events_page = nil -%}
+{%- for p in site.pages -%}{%- if p.ref == 'events' and p.lang == lang -%}{%- assign events_page = p -%}{%- endif -%}{%- endfor -%}
+{%- unless events_page -%}{%- for p in site.pages -%}{%- if p.ref == 'events' and p.lang == 'en' -%}{%- assign events_page = p -%}{%- endif -%}{%- endfor -%}{%- endunless -%}
+{%- assign gi = nil -%}
+{%- for p in site.pages -%}{%- if p.ref == 'get-involved' -%}{%- assign gi = p -%}{%- endif -%}{%- endfor -%}
+
+<img class="hero-img"
+     src="{{ site.baseurl }}/assets/imgs/torna-wide-2000.jpg"
+     srcset="{{ site.baseurl }}/assets/imgs/torna-wide-1000.jpg 1000w, {{ site.baseurl }}/assets/imgs/torna-wide-2000.jpg 2000w"
+     sizes="100vw" width="2000" height="653" fetchpriority="high"
+     alt="A green Sahyadri fort rising above a trail, with a few trekkers resting on a bench">
+<div class="wrap"><p class="field-note hero-cap">{{ t.hero_caption }}</p></div>
+
+<section class="wrap hero-text">
+  <p class="field-note">{{ t.since }}</p>
+  <h1 class="display">{{ t.hero_title }}</h1>
+  <p class="lede">{{ t.hero_lede }}</p>
+  <div class="hero-actions">
+    <a class="btn" href="{{ events_page.url }}">{{ t.see_events }}</a>
+    <a class="btn btn-ghost" href="{{ gi.url }}">{{ t.get_involved }}</a>
+  </div>
+</section>
+
+<section class="anniversary" aria-labelledby="anniv">
+  <div class="wrap">
+    <p class="big-number" aria-hidden="true">50</p>
+    <p class="field-note">{{ t.anniversary_kicker }}</p>
+    <h2 id="anniv">{{ t.anniversary_title }}</h2>
+    <p>{{ t.anniversary_body }}</p>
+    <p><a class="btn btn-yellow" href="mailto:{{ site.email }}?subject=50th%20anniversary">{{ t.anniversary_cta }}</a></p>
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>{{ t.what_we_do }}</h2>
+    <p>{{ t.what_we_do_lede }}</p>
+  </div>
+  <div class="strands">
+    <div class="strand">
+      <img src="{{ site.baseurl }}/assets/imgs/500px_himalayan_trek.jpg" alt="" loading="lazy">
+      <h3>{{ t.adv_title }}</h3>
+      <p>{{ t.adv_body }}</p>
+      <p class="field-note">{{ t.adv_note }}</p>
+    </div>
+    <div class="strand">
+      <img src="{{ site.baseurl }}/assets/imgs/500px_children_camp.jpg" alt="" loading="lazy">
+      <h3>{{ t.nat_title }}</h3>
+      <p>{{ t.nat_body }}</p>
+      <p class="field-note">{{ t.nat_note }}</p>
+    </div>
+    <div class="strand">
+      <img src="{{ site.baseurl }}/assets/imgs/800px_dukes_nose_2.jpg" alt="" loading="lazy">
+      <h3>{{ t.rock_title }}</h3>
+      <p>{{ t.rock_body }}</p>
+      <p class="field-note">{{ t.rock_note }}</p>
+    </div>
+    <div class="strand">
+      <img src="{{ site.baseurl }}/assets/imgs/500px_rajgad_tree_plantation.jpg" alt="" loading="lazy">
+      <h3>{{ t.cons_title }}</h3>
+      <p>{{ t.cons_body }}</p>
+      <p class="field-note">{{ t.cons_note }}</p>
+    </div>
+  </div>
+</section>
+
+<div class="wrap route-section">{% include route.html %}</div>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>{{ t.from_the_field }}</h2>
+  </div>
+  <div class="cards">
+    {%- assign recent = site.posts | where: "lang", lang -%}
+    {%- for post in recent limit: 3 -%}
+      {% include post-card.html post=post %}
+    {%- endfor -%}
+  </div>
+  <p style="margin-top:2rem"><a href="{{ events_page.url }}">{{ t.all_events }} →</a></p>
+</section>

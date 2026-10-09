@@ -1,0 +1,16 @@
+{%- comment -%} Usage: include post-card.html post=post {%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign lang = p.lang | default: site.default_lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+<article class="card">
+  <a class="card-media" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
+    {%- if p.teaser-img -%}
+    <img src="{{ site.baseurl }}/assets/imgs/{{ p.teaser-img }}" alt="" loading="lazy">
+    {%- endif -%}
+  </a>
+  <div class="card-body">
+    <p class="field-note"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d %b %Y" }}</time></p>
+    <h3 class="card-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    {%- if p.meta %}<p class="card-text">{{ p.meta | strip_html | truncate: 170 }}</p>{% endif -%}
+  </div>
+</article>

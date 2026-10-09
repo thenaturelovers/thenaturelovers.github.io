@@ -1,5 +1,7 @@
 ---
 layout: post
+ref: rp-2022
+lang: en
 title:  The 2023 Rajgad Pradakshina (37th year)
 date:   2022-12-26 09:12:06 +0530
 meta: Join us in our popular annual adventure on Rajgad fort in Pune district. This is our 35th year of this program. This beautiful fort was home to Chhatrapati Shivaji for 25 years and was witness to many historic events. The fort atop the hill has strong, heavy walls that are an architectural marvel. Best way to appreciate this extraordinary medieval stronghold is by trekking below these massive, awe-inspiring fort walls. This program presents a great opportunity to do just that.
@@ -10,12 +12,12 @@ teaser-orientation: landscape
 categories: course
 ---
 
-<h3 style="text-align: center">
+<h3>
  An unique experience
 </h3>
 
-<div class="row"  style="margin-bottom: 20px">
-<div class="col-md-8 col-md-offset-2" style="background: #bfd3f0; padding: 20px">
+<div class="row">
+<div class="callout">
 Three days in the presence of history, and natural world, away from cities,
 roads and crowds. This amazing experience beckons you. Absorb the atmosphere
 atop the wind swept mountain, and take in the magnificent panorama of medieval
@@ -40,7 +42,7 @@ marvelous place, made friends and went back with tonnes of happy memories.
 
 ### Places to see on Rajgad
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_torna_view.jpg" alt="Torna view">
+<img src="{{ site.baseurl }}/assets/imgs/900px_rajgad_torna_view.jpg" alt="Torna view">
 
 True to its name this king of forts has lot to offer to the visitors--
 
@@ -63,7 +65,7 @@ True to its name this king of forts has lot to offer to the visitors--
  
 ### Program
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
+<img src="{{ site.baseurl }}/assets/imgs/720px_rajgad_dindi.jpg" alt="Dindi">
 
 1. 26th January
  - Reach Gunjavane in morning and hike to Rajgad
@@ -85,14 +87,14 @@ The program involves following physical activities:
 ### Program Charges
 
 <div class="row">
-<div class="col-md-8" style="border: 1px solid #bfd3f0; margin-bottom: 5px">
+<div class="callout callout-plain">
 
 We are happy to offer an early bird discount for payments made by <strong>15 January 2023</strong>, as that helps us to plan better, accurately estimate and plan the supplies to ferry up the mountain, and avoid loss.
 
-<br style="margin: 10px" />
+<br>
 
 <em>Early bird discount till 15th January</em>
-<br style="margin: 6px" />
+<br>
 
 <ul>
 <li>General Public: <strong>Rs 3800</strong></li>
@@ -114,7 +116,7 @@ Regular <em>from 16th January</em>
 <strong>Bus service to Gunjavane (at the base) is available from Mumbai at additional charge of Rs 1600.</strong>
 </div>
 
-<div class="col-md-4" style="background: #bfd3f0; padding: 25px">
+<div class="callout">
 The Nature Lovers is a non-profit organisation and we try to arrange our
 programs to spread the joy of our wonderful outdoors, create awareness about our
 rich heritage and betterment of everyone's health. But, arranging a program on a remote
@@ -240,9 +242,9 @@ Kindly read all the rules and regulations carefully.
 ### Contact
 For any queries please contact us at: **thenaturelovers1986@gmail.com**
 <div class="row">
-<div class="col-md-6 col-sm-12">
+<div class="col">
 Organisers:
-<table class="table table-striped" style="font-size: 0.9em">
+<table>
   <tbody>
     <tr>
       <td>Mumbai</td>
@@ -263,10 +265,10 @@ Organisers:
 </table>
 </div>
 
-<div class="col-md-6 col-sm-12">
+<div class="col">
 
 Location-wise contacts numbers:
-<table class="table table-striped" style="font-size: 0.9em">
+<table>
   <tbody>
     <tr>
       <td>Mahim</td>

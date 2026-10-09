@@ -1,39 +1,41 @@
+{%- assign lang = page.lang | default: site.default_lang -%}
+{%- assign t = site.data.i18n[lang] -%}
 <footer class="site-footer">
-  <hr />
-  <div class="wrapper">
-
-    <h4 class="footer-heading">{{ site.title }}</h4>
-
-    <div class="footer-col-wrapper">
-      <!-- 
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-      -->
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+  {%- include route.html -%}
+    <div class="wrap footer-grid">
+    <div>
+      <p class="footer-name">{{ t.site_name }}, {{ t.site_place }}</p>
+      <p>{{ t.tagline }}</p>
     </div>
-
+    <div>
+      <h2 class="footer-h">{{ t.address }}</h2>
+      <address>
+          C/o S. K. Chemicals,<br />
+          Office No 204 - D,
+          Sumit Samartha Arcade,<br />
+          Aarey Road, Goregaon (West),<br />
+          Mumbai 400 104
+      </address>
+    </div>
+    <div>
+      <h2 class="footer-h">{{ t.follow }}</h2>
+      <ul class="footer-links">
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="https://www.facebook.com/thenaturelovers1982">{{ t.facebook }}</a></li>
+        <li><a href="https://www.instagram.com/thenaturelovers_mumbai">{{ t.instagram }}</a></li>
+      </ul>
+    </div>
   </div>
-
+  <p class="wrap footer-legal">© 1976–{{ site.time | date: '%Y' }} {{ t.copyright }}</p>
 </footer>
+<script>
+  (function () {
+    var b = document.querySelector('.nav-toggle');
+    if (!b) return;
+    b.addEventListener('click', function () {
+      var open = b.getAttribute('aria-expanded') === 'true';
+      b.setAttribute('aria-expanded', open ? 'false' : 'true');
+      document.getElementById('site-nav').classList.toggle('is-open', !open);
+    });
+  })();
+</script>

@@ -1,0 +1,8 @@
+# Primary navigation. `ref` matches the `ref:` front matter of a page; the
+# Marathi page with the same ref is used when one exists, else the English one.
+- ref: events
+- ref: activities
+- ref: about
+- ref: publications
+- ref: people
+- ref: contact
